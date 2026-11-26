@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="affiche/affiche.vcxproj" Id="913f83be-9491-423c-8214-ba2cfaaa3c20" />
+</Solution>
